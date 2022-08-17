@@ -6,7 +6,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AuthModule } from './auth/auth.module';
 //Componentes
 import { AppComponent } from './app.component';
-import { NotpagefoundComponent } from './pages/notpagefound/notpagefound.component';
+import { NotpagefoundComponent } from './notpagefound/notpagefound.component';
+
 
 
 @NgModule({

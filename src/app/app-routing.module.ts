@@ -5,7 +5,7 @@ import { AuthRoutingModule } from './auth/auth.routing';
 import { PagesRoutingModule } from './pages/pages.routing';
 
 
-import { NotpagefoundComponent } from './pages/notpagefound/notpagefound.component';
+import { NotpagefoundComponent } from './notpagefound/notpagefound.component';
 
 
 const routes: Routes = [
