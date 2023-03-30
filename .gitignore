@@ -44,3 +44,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+src/app/auth/auth.module.js
+src/app/auth/auth.routing.js
+src/app/auth/login/login.component.js
+src/app/auth/register/register.component.js
+src/app/components/dona/dona.component.js
+src/app/components/incrementador/incrementador.component.js

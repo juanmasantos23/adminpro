@@ -4,6 +4,7 @@ Author: Wrappixel
 Email: niravjoshi87@gmail.com
 File: js
 */
+const custominitoptions=() => {
 $(function() {
     "use strict";
     $(function() {
@@ -155,3 +156,5 @@ $(function() {
     });
 
 });
+}
+custominitoptions();
